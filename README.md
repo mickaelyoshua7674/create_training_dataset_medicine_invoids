@@ -1,3 +1,2 @@
 # Creat training dataset of medicine invoids
-Create a training dataset for multiple class Machine Learning from public invoids - Medicine, Hospital Material, Others.
-The goal is create an AI to classify public invoids o one of those 3 categories.
+From a database of public invoids at Court of Auditors of Paraíba, the data is extacted, filtered and organized through SQL scripts to build a dataset with the labels `medicine productos / hospital material / others`.
